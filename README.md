@@ -5,7 +5,7 @@
 Full proposals go to the corresponding project's repo: please use .md file using markup
 Full proposals will be discussed on Monday and due Jan 28
 
-### [Instructions](https://github.com/CS340-19/proposals/blob/master/project_proposal.pdf)
+### [Instructions for *Full Proposals*](https://github.com/CS340-19/proposals/blob/master/project_proposal.pdf)
 
 Heading: Title, Team Name, Team Members
 
