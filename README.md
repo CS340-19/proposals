@@ -1,6 +1,9 @@
 # Proposals
 
-For the proposals please use .md file using markup
+*This folder contains pre-proposals only*
+
+Full proposals go to the corresponding project's repo: please use .md file using markup
+Full proposals will be discussed on Monday and due Jan 28
 
 ### [Instructions](https://github.com/CS340-19/proposals/blob/master/project_proposal.pdf)
 
