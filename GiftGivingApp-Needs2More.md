@@ -1,4 +1,4 @@
-So far our team consists of Syd Shelby and Abby Prosise.
+So far our team consists of Syd Shelby, Abby Prosise, Emily Plank, Alex Nehls and Derek Sun.
 
 We would like to make an Android App that is a gift giving guide.
 

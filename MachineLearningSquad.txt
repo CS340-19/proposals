@@ -7,6 +7,14 @@ Members:
 Jared Colburn - jcolbur1@vols.utk.edu
 Kody Bloodworth - kbloodw@vols.utk.edu
 Tanner Fry - tfry2@vols.utk.edu
-//ROOM FOR ONE MORE//
+Austin Oaks - aoaks2@vols.utk.edu
+
+Project Proposal:
+
+What: Browser Addon which allows for real-time analysis of tweets in order to "better" inform the twitter populace.
+Who: For everybody (that uses Twitter)
+How: Javascript - addon implentation, Python - webcrawler/twitter api access and machine learning tools
+Process: Directly interact with the addon to (or maybe directly put it on the page) connect the story to whatever
+ tweet to isolate. (Isolating by directly opening the tweet)
 
 
