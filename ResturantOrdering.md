@@ -3,7 +3,7 @@ We will develop a front end and back end for a new type of ordering system. We w
 MEMBERS:
 Sam Steinberg
 Viktor Zenkov
-A-A-Ron Johnson
+Aaron Johnson
 Ethan Grissom
 
 Team is full. Not looking for any more members.
