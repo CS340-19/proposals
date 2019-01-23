@@ -8,4 +8,3 @@ As a gift giver, I could go look at a friend's profile and filter possible gifts
 
 As a gift receiver, I could privately rate gifts I receive in order to improve the ml algorithm's selections.
 
-Feel free to shoot me an email: sshelby3@vols.utk.edu
